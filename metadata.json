@@ -1,0 +1,6 @@
+{
+  "name": "CryptoLab - Classical Cryptography",
+  "description": "Classical Cryptography Encryption and Decryption Tool featuring Caesar Cipher laboratory demonstration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
